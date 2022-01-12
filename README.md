@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github profile! 👋
 
 <!--
 **joaopaulo02/joaopaulo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About 📘
+
+Student, software ddeveloper and new technology enthusiast.
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://www.linkedin.com/in/joao-paulo-nobrega/)
+
+## Technologies 💻
+
+Technologies that I use to code:
+
+* Python
+  - Flask;
+  - PyAutoGUI;
+  - Selenium;
+  - Pandas;
+  - Scikit-learn
+* Javascript
+  - Node.js  
+* HTML
+* CSS
+* Git
+
