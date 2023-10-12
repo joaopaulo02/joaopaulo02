@@ -26,6 +26,7 @@ Student, software developer and new technology enthusiast.
 Technologies that I use to code:
 
 * Python
+  - Django;
   - Flask;
   - PyAutoGUI;
   - Selenium;
