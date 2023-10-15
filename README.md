@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 ## About 📘
 
-Student, software developer and new technology enthusiast.
+Student, software developer and technology enthusiast.
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://www.linkedin.com/in/joao-paulo-nobrega/)
 
 ## Technologies 💻
-
-Technologies that I use to code:
 
 * Python
   - Django;
