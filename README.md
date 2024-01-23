@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## About 📘
 
+João Paulo, 18, from Brazil 🇧🇷
+
 Student, software developer and technology enthusiast.
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://www.linkedin.com/in/joao-paulo-nobrega/)
