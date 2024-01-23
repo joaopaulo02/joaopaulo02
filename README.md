@@ -30,6 +30,7 @@ Student, software developer and technology enthusiast.
   - Selenium;
   - Pandas;
   - Scikit-learn
+  - Numpy
 * Javascript
   - Node.js  
 * HTML
