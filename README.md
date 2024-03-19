@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 João Paulo, 18, from Brazil 🇧🇷
 
-ADS student at Fatec, python developer and technology enthusiast.
+Student at Universidade Federal do ABC, python developer and technology enthusiast.
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://www.linkedin.com/in/joao-paulo-nobrega/)
 
