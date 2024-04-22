@@ -1,42 +1,40 @@
-### Welcome to my Github profile! 👋
+<h1 align="center">Hi 👋, I'm João Paulo <img src="https://cdn3.emoji.gg/emojis/1271-classictv.gif" width="64px" height="64px" alt="ClassicTV"></h1>
 
-<!--
-**joaopaulo02/joaopaulo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=<+Python+Developer+🐍+/+>;<+18+years+old+👱‍♂️+/+>;<+From+Brazil+🇧🇷+/+>;<+Student+at+UFABC+📚+/+>;<+Technology+enthusiast+💻+/+>;<+Welcome+to+my+profile!+:%29+/+>)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
 
-## About 📘
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-paulo-nobrega/)
+  
+</div>
 
-João Paulo, 18, from Brazil 🇧🇷
+<div align="center">
+  
+### Technologies
+  
+[![My stacks](https://skills.thijs.gg/icons?i=python,django,flask,scikitlearn,selenium,js,nodejs,html,css,postgresql,git,github,aws,postman)](https://skills.thijs.gg) 
 
-Student at Universidade Federal do ABC, python developer and technology enthusiast.
+</div>
 
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>](https://www.linkedin.com/in/joao-paulo-nobrega/)
+<div align="center">    
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopaulo02&show_icons=true&count_private=true&hide_border=true&title_color=000092&icon_color=000082&text_color=c9d1d9&bg_color=0d1117"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo02&layout=compact&hide_border=true&title_color=000092&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
-## Technologies 💻
+<br>
 
-* Python
-  - Django;
-  - Flask;
-  - PyAutoGUI;
-  - Selenium;
-  - Pandas;
-  - Scikit-learn
-  - Numpy
-* Javascript
-  - Node.js  
-* HTML
-* CSS
-* Git
-* AWS
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=joaopaulo02&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  
+</div>
 
+<div align="center">
+  
+### Visitors Count
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaopaulo02}/count.svg"/></p> 
+
+</div>
