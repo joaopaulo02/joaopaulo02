@@ -14,7 +14,7 @@
   
 ### Technologies
   
-![My stacks](https://skills.thijs.gg/icons?i=python,django,flask,scikitlearn,selenium,js,nodejs,html,css,postgresql,git,github,aws,postman)
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,scikitlearn,selenium,js,nodejs,html,css,postgresql,git,github,aws,postman)
 
 </div>
 
