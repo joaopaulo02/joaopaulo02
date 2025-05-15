@@ -14,13 +14,13 @@
   
 ### Technologies
   
-![My Skills](https://skillicons.dev/icons?i=python,django,flask,scikitlearn,selenium,js,nodejs,html,css,postgresql,git,github,aws,postman)
+![My Skills](https://skillicons.dev/icons?i=aws,azure,postman,python,django,flask,scikitlearn,selenium,postgresql)
 
 </div>
 
 <div align="center">    
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaopaulo02&show_icons=true&count_private=true&hide_border=true&title_color=000092&icon_color=000082&text_color=c9d1d9&bg_color=0d1117"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo02&layout=compact&hide_border=true&title_color=000092&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulo02&layout=compact&hide_border=true&title_color=000092&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <br>
