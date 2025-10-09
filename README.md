@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Paulo <img src="https://cdn3.emoji.gg/emojis/1271-classictv.gif" width="64px" height="64px" alt="ClassicTV"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=<+Data+Engeneer+🎲+/+>;<+Python+Developer+🐍+/+>;<+19+years+old+👱‍♂️+/+>;<+From+Brazil+🇧🇷+/+>;<+UFABC+student+📚+/+>;<+Dataholic+💻+/+>;<+Welcome+to+my+profile!+:%29+/+>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=<+Data+Engeneer+🎲+/+>;<+Python+Developer+🐍+/+>;<+20+years+old+👱‍♂️+/+>;<+From+Brazil+🇧🇷+/+>;<+UFABC+student+📚+/+>;<+Dataholic+💻+/+>;<+Welcome+to+my+profile!+:%29+/+>)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -35,6 +35,6 @@
   
 ### Visitors Count
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaopaulo02}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=joaopaulo02"/></p> 
 
 </div>
