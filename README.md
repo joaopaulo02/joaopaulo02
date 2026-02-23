@@ -14,7 +14,7 @@
   
 ### Technologies
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,fabric,powerautomate,databricks,n8n,python,pyspark,sparksql,github,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,fabric,powerautomate,databricks,n8n,python,pyspark,sparksql,git,github,postman" />
 
 </div>
 
