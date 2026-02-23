@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Paulo <img src="https://cdn3.emoji.gg/emojis/1271-classictv.gif" width="64px" height="64px" alt="ClassicTV"></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=<+Data+Engineer+🎲+/+>;<+Python+Developer+🐍+/+>;<+20+years+old+👱‍♂️+/+>;<+From+Brazil+🇧🇷+/+>;<+UFABC+student+📚+/+>;<+Dataholic+💻+/+>;<+Welcome+to+my+profile!+:%29+/+>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=<+Data+Engineer+🎲+/+>;<+Python+Developer+🐍+/+>;<+20y+👱‍♂️+/+>;<+From+Brazil+🇧🇷+/+>;<+Dataholic+💻+/+>;<+Welcome+to+my+profile!+:%29+/+>)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -13,8 +13,8 @@
 <div align="center">
   
 ### Technologies
-  
-![My Skills](https://skillicons.dev/icons?i=aws,azure,postman,python,django,flask,scikitlearn,selenium,postgresql)
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=azure,fabric,powerautomate,databricks,n8n,python,pyspark,sparksql,github,postman" />
 
 </div>
 
